@@ -1,4 +1,3 @@
-```markdown
 # VLM_on_edge
 **Project for Paper on Multimodal AI on Edge Devices**
 
@@ -11,14 +10,13 @@ This project aims to explore the application of Vision-Language Models (VLMs) on
 
 ## 📂 Repository Structure
 
-```text
+```
 VLM_on_edge/
 ├── VLM_run_experiments_QIDK/     # Main folder for all experiment codebases
 │   └── [Experiment_Folders]      # Individual folders for each specific experiment
 ├── reference_materials/          # Research papers, data sheets, and references
 │   └── [Resource_Sets]           # Grouped resources
 └── README.md                     # Project rules and documentation
-
 ```
 
 ---
@@ -65,9 +63,3 @@ Located in the `VLM_run_experiments_QIDK` folder.
 3. Create your experiment folder inside `VLM_run_experiments_QIDK/`.
 4. Add your code, assets, and the mandatory `README.md`.
 5. Push your branch and open a Pull Request.
-
----
-
-```
-
-```
