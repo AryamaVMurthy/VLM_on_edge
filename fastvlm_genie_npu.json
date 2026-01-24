@@ -1,0 +1,82 @@
+{
+    "dialog": {
+        "version": 1,
+        "type": "basic",
+        "max-num-tokens": 128,
+        "embedding": {
+            "version": 1,
+            "size": 896,
+            "type": "lut",
+            "lut-path": "/data/local/tmp/fastvlm/embedding.bin",
+            "datatype": "float32"
+        },
+        "context": {
+            "version": 1,
+            "size": 512,
+            "n-vocab": 151936,
+            "bos-token": 151644,
+            "eos-token": 151645,
+            "pad-token": 151643,
+            "n-embd": 896,
+            "eot-token": 151645
+        },
+        "sampler": {
+            "version": 1,
+            "seed": 42,
+            "temp": 0.6,
+            "top-k": 40,
+            "top-p": 0.9,
+            "greedy": false,
+            "token-penalty": {
+                "version": 1,
+                "penalize-last-n": 128,
+                "repetition-penalty": 1.2,
+                "presence-penalty": 0.2,
+                "frequency-penalty": 0.1
+            }
+        },
+        "tokenizer": {
+            "version": 1,
+            "path": "/data/local/tmp/fastvlm/tokenizer.json"
+        },
+        "engine": {
+            "version": 1,
+            "n-threads": 3,
+            "backend": {
+                "version": 1,
+                "type": "QnnHtp",
+                "QnnHtp": {
+                    "version": 1,
+                    "spill-fill-bufsize": 320000000,
+                    "use-mmap": true,
+                    "mmap-budget": 0,
+                    "poll": true,
+                    "cpu-mask": "0xe0",
+                    "kv-dim": 64,
+                    "allow-async-init": false,
+                    "kv-update-method": "pointer-shift",
+                    "enable-graph-switching": false
+                },
+                "extensions": "htp_backend_ext_config.json"
+            },
+            "model": {
+                "version": 1,
+                "type": "binary",
+                "binary": {
+                    "version": 1,
+                    "ctx-bins": [
+                        "fastvlm_full.bin"
+                    ]
+                },
+                "positional-encoding": {
+                    "type": "rope",
+                    "rope-dim": 64,
+                    "rope-theta": 1000000
+                }
+            }
+        },
+        "stop-sequence": [
+            "<|im_end|>"
+        ]
+    }
+}

@@ -8,6 +8,71 @@
 ## 📖 Overview
 This project aims to explore the application of Vision-Language Models (VLMs) on edge devices, focusing on the challenges and opportunities presented by limited computational resources and network bandwidth. The repository serves as a central hub for experimental code, results, and reference literature.
 
+## Decoder Export (FP16)
+This worktree currently focuses on exporting a **decoder-only** ONNX with fixed KV-cache I/O for QAI Hub compilation.
+
+```bash
+# Export ONNX
+python export_decoder_fp16.py \
+  --model-dir /path/to/checkpoint \
+  --output-dir .
+
+# Validate signature (fails fast on shape/dtype mismatches)
+python validate_onnx_signature.py \
+  --onnx fastvlm_full_fp16.onnx \
+  --cache-len 1023
+```
+
+## QAI Hub Compile (Stage 2)
+Compile the exported ONNX to a QNN context binary using QAI Hub.
+
+```bash
+python rename_onnx_tensors.py \
+  --input fastvlm_full_fp16_embedded.onnx \
+  --output fastvlm_full_fp16_embedded_renamed.onnx
+
+python validate_onnx_signature.py \
+  --onnx fastvlm_full_fp16_embedded_renamed.onnx \
+  --cache-len 1023 \
+  --kv-style genie
+
+python compile_final.py --onnx fastvlm_full_fp16_embedded_renamed.onnx
+```
+
+Outputs:
+- `qaihub_bins/fastvlm_full_<JOB_ID>/fastvlm_full.bin`
+- `qaihub_bins/fastvlm_full_<JOB_ID>/metadata.json`
+
+## End-to-End VLM Bring-up (Stage 3/4)
+This uses existing vision/text encoder binaries and the compiled decoder.
+
+```bash
+# Consolidated entrypoint (recommended)
+./scripts/fastvlm.sh e2e /path/to/image.jpg "Describe this image"
+
+# Direct end-to-end (image + prompt)
+./run_e2e_vlm.sh /path/to/image.jpg "Describe this image"
+```
+
+Notes:
+- The decoder KV cache is fixed to 1023 tokens (context size 1024). The pipeline truncates the prompt
+  to fit that budget. This is a bring-up path, not the final full-context VLM.
+
+## Consolidated Script Entry Point
+
+Use `scripts/fastvlm.sh` to run the full pipeline from a single place:
+
+```bash
+# Cache static prompt/image then query
+./scripts/fastvlm.sh cache /path/to/image.jpg "Describe the image."
+
+# Export decoder ONNX
+./scripts/fastvlm.sh export-decoder --model-dir /path/to/checkpoint --output-dir .
+
+# Compile on QAI Hub
+./scripts/fastvlm.sh compile --onnx fastvlm_full_fp16_embedded_renamed.onnx
+```
+
 ## 📂 Repository Structure
 
 ```
