@@ -1,0 +1,2678 @@
+[
+  {
+    "name": "Input",
+    "type": "Input",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "input_0231",
+    "type": "input",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_2",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_4",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_6",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_3",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1283",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_5",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_8",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_6",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_7",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1285",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_9",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_10",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_10",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_11",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_12",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_12",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_14",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_13",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1287",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_15",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_16",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_16",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_17",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1289",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_19",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_18",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_20",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_3",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_21",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1291",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_23",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_20",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_24",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_4",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_25",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1293",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_27",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_22",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_28",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_5",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_29",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1295",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_31",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_24",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_32",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_6",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_33",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1297",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_35",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_26",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_36",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_7",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_37",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1299",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_39",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_28",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_40",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_8",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_41",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1301",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_43",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_30",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_44",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_9",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_45",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1303",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_47",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_32",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_48",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_10",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_49",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1305",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_51",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_34",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_52",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_11",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_53",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1307",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_55",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_36",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_56",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_12",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_57",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1309",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_59",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_38",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_60",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_13",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_61",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_40",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_62",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_42",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_63",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1311",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_65",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_44",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_66",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_14",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_67",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1313",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_69",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_46",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_70",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_15",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_71",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1315",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_73",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_48",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_74",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_16",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_75",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1317",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_77",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_50",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_78",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_17",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_79",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1319",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_81",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_52",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_82",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_18",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_83",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1321",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_85",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_54",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_86",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_19",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_87",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1323",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_89",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_56",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_90",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_20",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_91",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1325",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_93",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_58",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_94",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_21",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_95",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1327",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_97",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_60",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_98",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_22",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_99",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1329",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_101",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_62",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_102",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_23",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_103",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1331",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_105",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_64",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_106",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_24",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_107",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1333",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_109",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_66",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_110",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_25",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_111",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1335",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_113",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_68",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_114",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_26",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_115",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1337",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_117",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_70",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_118",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_27",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_119",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1339",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_121",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_72",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_122",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_28",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_123",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1341",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_125",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_74",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_126",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_29",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_127",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1343",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_129",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_76",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_130",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_30",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_131",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1345",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_133",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_78",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_134",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_31",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_135",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1347",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_137",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_80",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_138",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_32",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_139",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1349",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_141",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_82",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_142",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_33",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_143",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1351",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_145",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_84",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_146",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_34",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_147",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1353",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_149",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_86",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_150",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_35",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_151",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1355",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_153",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_88",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_154",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_36",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_155",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1357",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_157",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_90",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_158",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_37",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_159",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_92",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_160",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_94",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_161",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_layernorm_0",
+    "type": "layernorm",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_permute",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_773",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind__0",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_778",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind__1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_782",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind__2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_39",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_softmax",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node__unsafe_view",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_790",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_790_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_3",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view_2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_40",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "mul_40_0231",
+    "type": "mul",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_40",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1359",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_163",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_96",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_164",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_41",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_layernorm_3",
+    "type": "layernorm",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view_3",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear_2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear_2_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_permute_1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_836",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_1__0",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_840",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_1__1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_844",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_1__2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_43",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_5",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_softmax_1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_3",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_6",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node__unsafe_view_1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_851",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_851_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_7",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view_5",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_44",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "mul_44_0231",
+    "type": "mul",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_44",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1361",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_166",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_98",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_167",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_45",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_layernorm_6",
+    "type": "layernorm",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view_6",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear_4",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear_4_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_permute_2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_897",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_2__0",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_901",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_2__1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_905",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_2__2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_47",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_9",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_4",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_softmax_2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_5",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_10",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node__unsafe_view_2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_912",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_912_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_11",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view_8",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_48",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "mul_48_0231",
+    "type": "mul",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_48",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1363",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_169",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_100",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_170",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_49",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_layernorm_9",
+    "type": "layernorm",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view_9",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear_6",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear_6_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_permute_3",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_958",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_3__0",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_962",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_3__1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_966",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_3__2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_51",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_13",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_6",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_softmax_3",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_7",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_14",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node__unsafe_view_3",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_973",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_973_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_15",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view_11",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_52",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "mul_52_0231",
+    "type": "mul",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_52",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1365",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_172",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_102",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_173",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_53",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_174",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_104",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_175",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_106",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_176",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_layernorm_12",
+    "type": "layernorm",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view_12",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear_8",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear_8_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_permute_4",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_1033",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_4__0",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_1037",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_4__1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_1041",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_4__2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_55",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_17",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_8",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_softmax_4",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_9",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_18",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node__unsafe_view_4",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_1048",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_1048_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_19",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view_14",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_56",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "mul_56_0231",
+    "type": "mul",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_56",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1367",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_178",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_108",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_179",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_57",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_layernorm_15",
+    "type": "layernorm",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view_15",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear_10",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_linear_10_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_permute_5",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_1094",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_5__0",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_1098",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_5__1",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Slice_1102",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_unbind_5__2",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_59",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_21",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_10",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_softmax_5",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_11",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_22",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node__unsafe_view_5",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_1109",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_MatMul_1109_post_reshape",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_transpose_23",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_view_17",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_60",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "mul_60_0231",
+    "type": "mul",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_60",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_Conv_1369",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_181",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_110",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_182",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_add_61",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_183",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_avg_pool2d",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_184",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_relu",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_conv2d_185",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_sigmoid",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mul_62",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "_elementwiseneuron_112",
+    "type": "elementwiseneuron",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_mean_12",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_12",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "node_matmul_12_identity",
+    "type": "node",
+    "time_us": 0,
+    "unit": "NPU"
+  },
+  {
+    "name": "Output",
+    "type": "Output",
+    "time_us": 0,
+    "unit": "NPU"
+  }
+]
